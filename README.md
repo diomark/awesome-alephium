@@ -105,7 +105,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 - [AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters. 
  [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
 - [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
-- [Raw Transaction Decoder](https://alephium.nioctib.tech): Decode Alephium transaction in binary format. [Github Repository](https://github.com/h0ngcha0/alephium-tx-decoder).
+- [Raw Transaction Decoder](https://alephium-decoder.softfork.se/): Decode Alephium transaction in binary format. [Github Repository](https://github.com/h0ngcha0/alephium-tx-decoder).
 - [Blockflow Visualizer](https://visualizer.alph.land/)
 - [Stats Dashboard](https://stats.alph.land/)
 
